@@ -166,7 +166,8 @@ border-radius: 0 0 15px 15px !important;
 }
 .msg_time, .msg_time_send {
 	display: block;
-	color: #6c757d;
+	color: #fcfdfe;
+    font-weight: bold;
 	font-size: 11px;
 	margin-top: 4px;
 	position: static;
